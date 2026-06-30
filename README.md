@@ -1,4 +1,4 @@
-# 🛡️ AWS Security Hub Fundamentals - Study Notes
+# 🛡️ AWS Security Hub Fundamentals - Study Notessssss
 
 Bem-vindo ao meu repositório de estudos sobre o **AWS Security Hub**. Este projeto documenta meu aprendizado prático, testes de laboratório e estratégias de hardening utilizando o Security Hub como orquestrador central de postura de segurança na AWS.
 
